@@ -1,4 +1,4 @@
-# A Joke Generator APP
+# A Joke Generator APP.
 
 A small app called Chuck Norris Joke Generator, created with vanilaJS and AJAX to fetch from Chuck Norris Joke Generator API.
 
