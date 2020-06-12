@@ -13,7 +13,7 @@ git clone https://github.com/letowebdev/Joke-Generator-using-API.git
 
 ## Deployment
 
-http://zacheabdelatif.website/Projects/JokeGenerator/
+http://zacheleto.me/Projects/JokeGenerator/
 
 ## Built With
 
